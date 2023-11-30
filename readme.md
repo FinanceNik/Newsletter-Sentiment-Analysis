@@ -11,3 +11,5 @@
 ---
 
 ## Description
+This tool is a pretrained machine learning algorithm that can be used to analyze the sentiment of a news article. It is
+pretrained on various news outlets such as the BBC, Euronews, CBC and more. 
