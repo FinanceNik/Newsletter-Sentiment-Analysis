@@ -1,0 +1,31 @@
+Sentence,Sentiment
+This is the worst experience I have ever had.,Negative
+"What an amazing adventure, totally worth it!",Positive
+"I had a great time, the event was very well organized.",Positive
+"The food was terrible, I would not recommend it.",Negative
+"Absolutely fantastic service, very happy!",Positive
+"This gadget is useless, a complete waste of money.",Negative
+"I love this product, it's absolutely wonderful!",Positive
+"This is a horrible book, I hated every part of it.",Negative
+"I am not satisfied with the service, it was bad.",Negative
+"The movie was a great experience, thoroughly enjoyed it.",Positive
+I found this book incredibly inspiring and enlightening.,Positive
+The customer service was unhelpful and rude.,Negative
+"Such an amazing meal, the chef did a wonderful job!",Positive
+"My phone broke after a week, very disappointed with the quality.",Negative
+The scenery in the movie was breathtaking and mesmerizing.,Positive
+The plot of the movie was confusing and poorly executed.,Negative
+"This app has made my life so much easier, highly recommend it!",Positive
+"The room was dirty and smelled bad, not staying here again.",Negative
+"A truly enlightening lecture, the speaker was very knowledgeable.",Positive
+"The concert was a disaster, the sound system kept malfunctioning.",Negative
+This new software update is fantastic and intuitive.,Positive
+"Terrible product, it broke the first time I used it.",Negative
+"The vacation was a dream come true, so relaxing and fun!",Positive
+"I got food poisoning from the restaurant, a horrible experience.",Negative
+"The workshop was very informative and engaging, learned a lot.",Positive
+The flight was delayed and the staff were unapologetic.,Negative
+"An inspiring story, it really touched my heart.",Positive
+The hotel was overpriced for the poor service and amenities.,Negative
+"A beautifully written novel, I couldn't put it down.",Positive
+The service at this cafe is always slow and unfriendly.,Negative
